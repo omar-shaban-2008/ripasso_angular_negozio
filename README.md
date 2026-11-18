@@ -1,0 +1,1 @@
+# ripasso_angular_negozio
